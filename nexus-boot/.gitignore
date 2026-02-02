@@ -31,22 +31,3 @@ build/
 
 ### VS Code ###
 .vscode/
-
-### Runtime logs / AI artifacts ###
-*.log
-*.log.*
-*_log.txt
-*_run.log
-startup_output.log
-output.log
-app_run.log
-current_run.log
-boot_run.log
-boot_diag.log
-build_*.log
-maven_error.log
-
-### Environment files ###
-.env
-.env.*
-!.env*.example
