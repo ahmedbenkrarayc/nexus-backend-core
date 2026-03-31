@@ -35,6 +35,7 @@ build/
 ### Runtime logs / AI artifacts ###
 *.log
 *.log.*
+*.dumpstream
 *_log.txt
 *_run.log
 startup_output.log
@@ -45,6 +46,8 @@ boot_run.log
 boot_diag.log
 build_*.log
 maven_error.log
+ai_*.log
+copilot_*.log
 
 ### Environment files ###
 .env
